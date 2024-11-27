@@ -11,7 +11,7 @@ ndowkeiton/ndowkeiton is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 测试
-这是一个[图片库.zip](https://github.com/ndowkeiton/ndowkeiton/blob/main/%E5%9B%BE%E7%89%87%E5%BA%93.zip)
+这是一个[图片库.zip](PK)
 
 
-此[图片库.zip](https://github.com/ndowkeiton/ndowkeiton/blob/main/%E5%9B%BE%E7%89%87%E5%BA%93.zip)里面有很多图片链接
+此[图片库.zip](PK)里面有很多图片链接
